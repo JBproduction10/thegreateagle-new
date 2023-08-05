@@ -1,13 +1,6 @@
 # The Great Eagle Tribute
 
-<<<<<<< HEAD
-Official link to the project hosted on Netlify [link](https://thegreateagle.netlify.app/)
-=======
-Official link of the project hosted on Netlify [link](https://thegreateagle.netlify.app/)
-Official link of my portfolio [link](https://jonathanb.vercel.app/)
->>>>>>> 9c571268e9e46c4d51c89d727d8e6635177123fb
-
-<img src="./images/thegreateagleredo.png"/>
+<img src="./img/thegreateagleredo.png"/>
 
 ## The project about
 
